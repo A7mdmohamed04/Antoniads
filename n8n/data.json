@@ -1,1 +1,34 @@
-
+[
+  {
+    "question": "What are your opening hours?",
+    "answer": "Antoniades Garden Palace is open daily from 9 AM to 5 PM."
+  },
+  {
+    "question": "Where is Antoniades Garden Palace located?",
+    "answer": "We are located in Alexandria, Egypt."
+  },
+  {
+    "question": "How much is the ticket price?",
+    "answer": "The ticket price is 20 EGP for adults and 10 EGP for children."
+  },
+  {
+    "question": "Is photography allowed in Antoniades Garden?",
+    "answer": "Yes, photography is allowed, but please avoid using flash inside historical areas."
+  },
+  {
+    "question": "Do you have parking available?",
+    "answer": "Yes, there is a parking area available for visitors near the main entrance."
+  },
+  {
+    "question": "Can I book a guided tour?",
+    "answer": "Yes, guided tours are available. You can book a tour by contacting our information desk on arrival."
+  },
+  {
+    "question": "Do you have a cafeteria or food area?",
+    "answer": "Yes, there is a small cafeteria where you can purchase drinks and snacks during your visit."
+  },
+  {
+    "question": "Is the garden accessible for people with disabilities?",
+    "answer": "Parts of the garden are accessible for visitors with disabilities, but some areas have uneven terrain."
+  }
+]
